@@ -1,3 +1,3 @@
 This is our Linux project!
-Install command: bash install.sh
-Run Finance: docker run finance
+Install command: sudo bash install.sh
+Run Finance: sudo docker run finance
